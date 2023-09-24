@@ -10,7 +10,7 @@ Python >= 3.0
 
 python3 gensched.py > <path_of_output_HTML>
 
-* More documentation coming soon... *
+*More documentation coming soon...*
 
 ## Contributors
 
